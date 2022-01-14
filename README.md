@@ -1,6 +1,6 @@
 <h1 align="center">Projeto GoogleGlass👓</h1>
 
-<h2>Introdução</h2>
+<h2>Sobre</h2>
 
 Neste projeto, foi desenvolvido um site, nele contem informações e métodos de compras do óculos da Google, O GoogleGlass! Ele foi feito assistindo os vídeos do Prof [Gustavo Guanabara](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&ab_channel=CursoemV%C3%ADdeo)! 
 
